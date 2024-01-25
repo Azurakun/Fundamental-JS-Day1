@@ -15,5 +15,5 @@ if(nilai > 40 && nilai <54){
 if(nilai > 0 && nilai <40){
     console.log("A")
 }else{
-    console.log("Nilai Invalid ")
+    console.log("Nilai Invalid")
 }
